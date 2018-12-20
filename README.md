@@ -1,4 +1,4 @@
-                 VICTRE-MO: Model Observers for VICTRE
+ #VICTRE-MO: Model Observers for VICTRE
 
 This package, named VICTRE-MO, contains open-source model observer functions to perform location-known lesion detection tasks. The codes were written in Mathworks’ MATLAB language. Channelized Hotelling observer (CHO) [1,2] and convolution CHO [3]with Laguerre-Gauss channels were implemented in this package. 
 Contact for questions:
